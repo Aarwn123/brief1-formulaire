@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+body {
+    margin: 0px;
+    padding: 0px;
+    /* background-image: url("https://images.unsplash.com/photo-1645811791284-85468ed10a64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=269&q=80"); */
+}
+
+ .input-box { 
+    width: 100%;
+    padding: 14px;
+    font-size: 14px;
+    color: #8b8b99;
+    border-radius: 4px;
+    border: 1px solid #e5e6ec;
+    margin-bottom: 14px;
+    box-sizing: border-box;
+}
+
+#btn-1 {
+    font-size: 18px;
+    border: 0px;
+    font-weight: 600;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 4px;
+    background-color: rgb(170, 210, 54);
+    /* display: flex;  */
+    /* float: inline-end; */
+    
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-style: italic;
+}
+
+
+
+/* @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700); */
+
+/* html { 
+  font-family: 'Montserrat', Arial, sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+/ */

@@ -1,0 +1,41 @@
+h1{
+    color: rgb(83, 186, 36);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration : underline;
+    text-align: center;
+    
+}    
+
+
+/*table{  
+    background-color: rgb(17, 216, 17);
+}*/    
+
+td {  
+    color: rgb(245, 247, 248);
+}
+
+div {
+    color: red;
+}
+
+body {
+    color: red;
+}
+.imagedefond {
+    background-image: url("https://images.unsplash.com/photo-1601370690183-1c7796ecec61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+}
+
+table{
+    text-decoration: underline;
+    color: rgb(249, 245, 245);
+   /* border-spacing : 0; 
+    border-collapse : collapse;
+    border-spacing : 5px 10px; */
+}
+
+/*td {
+    border-spacing : 0; 
+    border-collapse : collapse;
+}*/
